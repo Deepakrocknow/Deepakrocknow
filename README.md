@@ -20,8 +20,9 @@
 <a href="https://instagram.com/deepaksinghtomar167" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="deepaksinghtomar167" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/dev_003" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="dev_003" height="30" width="40" /></a>
 <a href="https://leetcode.com/u/dev_007_/" target="_blank">
-  <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/leetcode.svg" alt="LeetCode" height="30" width="40" />
+  <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" alt="LeetCode" height="30" width="40" style="filter: brightness(0) invert(1);" />
 </a>
+
 
 <a href="https://www.hackerrank.com/deepaktomar007" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="deepaktomar007" height="30" width="40" /></a>
 </p>
