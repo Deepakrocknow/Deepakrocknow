@@ -19,8 +19,9 @@
 <a href="https://linkedin.com/in/deepak tomar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="deepak tomar" height="30" width="40" /></a>
 <a href="https://instagram.com/deepaksinghtomar167" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="deepaksinghtomar167" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/dev_003" target="_blank">
-  <img align="center" src="https://upload.wikimedia.org/wikipedia/en/5/5f/CodeChef_logo.png" alt="CodeChef" height="35" width="45" />
+  <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/codechef/codechef-original.svg" alt="CodeChef" height="35" width="45" style="filter: invert(1);" />
 </a>
+
 
 
 <a href="https://leetcode.com/u/dev_007_/" target="_blank">
